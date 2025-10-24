@@ -1,0 +1,11 @@
+{
+  "name": "glsl-playlab",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/run-tests.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GLSL PlayLab Offline",
+  "short_name": "PlayLab",
+  "description": "Offline WebGL2 shader studio with lessons and preset browser.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": []
+}
